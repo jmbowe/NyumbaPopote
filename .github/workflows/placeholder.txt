@@ -1,0 +1,1 @@
+This is the public/assets folder under web for NyumbaPopote.
